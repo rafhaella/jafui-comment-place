@@ -1,0 +1,5 @@
+com\jafui\entidades\PlaceComment.class
+com\jafui\rest\PlaceCommentController.class
+com\jafui\persistencia\PlaceCommentRepository.class
+com\jafui\negocio\PlaceCommentService.class
+com\jafui\Application.class
